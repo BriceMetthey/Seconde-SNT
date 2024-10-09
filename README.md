@@ -1,5 +1,7 @@
 # Site pour les secondes SNT
 
+Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://bricemetthey.github.io/Seconde-SNT)
+
 ## Divers
 
 + [Synthèse du programme de la matière SNT](https://github.com/BriceMetthey/Seconde-SNT/blob/main/Divers/Synth%C3%A8se_Programme_SNT.pdf)
