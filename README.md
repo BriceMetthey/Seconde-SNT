@@ -4,7 +4,7 @@
 
 + [Synthèse du programme de la matière SNT](https://github.com/BriceMetthey/Seconde-SNT/blob/main/Divers/Synth%C3%A8se_Programme_SNT.pdf)
 
-## Sequence 1 : Internet
+## Sequence 1 : Internet :earth_americas:
 
 + :books: [Le cours](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Cours.pdf)
 + :world_map: La carte mentale
