@@ -19,4 +19,4 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 + :pencil2: [Fiche activité 6](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%206.pdf) [[Correction]](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%206%20-%20Correction.pdf)
 + :pencil2: [Fiche activité 7](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%207.pdf) [[Correction]](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%207%20-%20Correction.pdf)
 + :pencil2: [Fiche activité 8](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%208.pdf) [[Correction]](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%208%20-%20Correction.pdf)
-+ :books: :pencil2: [Le changement de base (Cours & Exercices)](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Conversion_base.pdf)
++ :pencil2: [Fiche d'activité changement de base et ASCII](https://capytale2.ac-paris.fr/web/c/ed98-4417396)
