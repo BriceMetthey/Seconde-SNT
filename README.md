@@ -24,6 +24,6 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 
 ## Séquence 2 : Le Web
 
-+ ✏️ [Fiche activité 1](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Activit%C3%A9%201.pdf)
++ ✏️ [Fiche activité 1 : Fonctionnement et écriture d'une page web](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Activit%C3%A9%201.pdf)
 + ✏️ [Fiche activité 2 : Le fonctionnement d'un moteur de recherche](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Activit%C3%A9%202.pdf)
 + ✏️ [Fiche activité 3 : Découverte de HTML et CSS](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Activit%C3%A9%203.pdf)
