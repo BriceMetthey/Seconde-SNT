@@ -30,5 +30,5 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 
 ## Projet - Construire une page Web
 
-+ :rocket: [Cahier des charges]()
++ :rocket: [Cahier des charges](https://github.com/BriceMetthey/Seconde-SNT/blob/main/Projets/Projet%201/Cahier%20des%20charges.pdf)
 + :rocket: [Environnement technique du projet](https://capytale2.ac-paris.fr/web/c/f35c-5014219)
