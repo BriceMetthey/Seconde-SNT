@@ -9,7 +9,7 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 ## Sequence 1 : Internet 
 
 + :books: [Le cours](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Cours.pdf)
-+ :world_map: La carte mentale
++ :world_map: [La carte mentale](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Carte-mentale.svg)
 + :pencil2: [Fiche activité 1](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%201.pdf) [[Correction]](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%201%20-%20Correction.pdf)
 + :pencil2: [Fiche activité 2](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%202.pdf) [[Correction]](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%202%20-%20Correction.pdf)
 + :pencil2: [Fiche activité 2 - Compléments](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_1_Internet/Activit%C3%A9%202%20-%20Compl%C3%A9ments.pdf)
