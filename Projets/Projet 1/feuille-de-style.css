@@ -1,0 +1,43 @@
+body {
+    background-color: #F7F7F7; /* Blanc cassé */
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+
+.h2-gauche {
+    text-align: left;
+}
+
+.titre {
+    text-align: center;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+	text-align: center;
+}
+
+.source {
+    font-size: 8px;
+    margin-top: 5px;
+    display: block;
+	text-align: center;
+}
+
+.conclusion {
+    background-color: #CCCCCC; 
+    border: 1px solid black; 
+    padding: 10px; 
+}
