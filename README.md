@@ -31,6 +31,7 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 + :books: [Le cours](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Le%20cours.pdf)
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Carte-mentale.svg)
 + ✏️ [Exercices](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Exercices.pdf)
++ :dart: [Frise chronologique](https://mon.lyceeconnecte.fr/timelinegenerator#)
 
 ## Projet - Construire une page Web
 
