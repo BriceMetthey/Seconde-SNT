@@ -30,7 +30,7 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 + ✏️ [Fiche activité 4 : Sécurité et vie privée sur le Web](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Activite_4.pdf) [[Correction]](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Activite_4%20-%20Correction.pdf)
 + :books: [Le cours](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Le%20cours.pdf)
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Carte-mentale.svg)
-+ ✏️ [Exercices](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Exercices.pdf)
++ ✏️ [Exercices](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_2_Web/Exercices%20-%20Correction.pdf)
 + :dart: [Frise chronologique](https://mon.lyceeconnecte.fr/timelinegenerator#) (version classe en co-construction & version du professeur)
 
 ## Projet - Construire une page Web
