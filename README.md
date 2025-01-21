@@ -44,6 +44,7 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 
 ## Séquence 3 : Les réseaux sociaux
 
++ 📝 [Fiche de suivi de projet](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Fiche%20de%20suivi%20de%20projet.pdf)
 + :pencil2: [Travail de groupe 1 – La cyberviolence](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Fiche%20Groupe%201.pdf)
 + :pencil2: [Travail de groupe 2 – La propagation d’information](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Fiche%20Groupe%202.pdf)
 + :pencil2: [Travail de groupe 3 – La collecte de données des utilisateurs](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Fiche%20Groupe%203.pdf)
