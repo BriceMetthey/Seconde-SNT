@@ -39,7 +39,7 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 + :rocket: [Environnement technique du projet](https://capytale2.ac-paris.fr/web/c/f35c-5014219)
 + Correction :
   + [La feuille de style](https://github.com/BriceMetthey/Seconde-SNT/blob/main/Projets/Projet%201/feuille-de-style.css)
-  + Le fichier HTML
+  + [Le fichier HTML](https://github.com/BriceMetthey/Seconde-SNT/blob/main/Projets/Projet%201/reference.html)
   + [L'image associée](https://github.com/BriceMetthey/Seconde-SNT/blob/main/Projets/Projet%201/image.png)
 
 ## Séquence 3 : Les réseaux sociaux
