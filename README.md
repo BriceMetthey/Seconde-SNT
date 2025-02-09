@@ -52,5 +52,5 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 + ✏️ [Activité 1 - Les communautés dans les réseaux sociaux](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Activit%C3%A9%201%20-%20Les%20communaut%C3%A9s%20dans%20les%20r%C3%A9seaux%20sociaux.pdf) [[Correction]](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Activit%C3%A9%201%20-%20Les%20communaut%C3%A9s%20dans%20les%20r%C3%A9seaux%20sociaux%20-%20correction.pdf)
 
 ## Séquence 4 : Les données structurées et leur traitement
-+ ✏️ [Activité 1 - Repères historiques]() [[Correction]]()
++ ✏️ [Activité 1 - Repères historiques](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_4_Les%20donn%C3%A9es%20structur%C3%A9es%20et%20leur%20traitement/Activit%C3%A9%201%20-%20Rep%C3%A8res%20historiques.pdf) [[Correction]]()
 
