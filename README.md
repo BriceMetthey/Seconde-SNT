@@ -50,3 +50,7 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 + :pencil2: [Travail de groupe 3 – La collecte de données des utilisateurs](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Fiche%20Groupe%203.pdf)
 + :pencil2: [Présentation orale - Les attendus](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Pr%C3%A9sentation%20orale.pdf)
 + ✏️ [Activité 1 - Les communautés dans les réseaux sociaux](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Activit%C3%A9%201%20-%20Les%20communaut%C3%A9s%20dans%20les%20r%C3%A9seaux%20sociaux.pdf) [[Correction]](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_3_Les%20r%C3%A9seaux%20sociaux/Activit%C3%A9%201%20-%20Les%20communaut%C3%A9s%20dans%20les%20r%C3%A9seaux%20sociaux%20-%20correction.pdf)
+
+## Séquence 4 : Les données structurées et leur traitement
++ ✏️ [Activité 1 - Repères historiques]() [[Correction]]()
+
