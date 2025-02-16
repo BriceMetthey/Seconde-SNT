@@ -53,4 +53,4 @@ Lien vers le site : [https://bricemetthey.github.io/Seconde-SNT](https://briceme
 
 ## Séquence 4 : Les données structurées et leur traitement
 + ✏️ [Activité 1 - Repères historiques](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_4_Les%20donn%C3%A9es%20structur%C3%A9es%20et%20leur%20traitement/Activit%C3%A9%201%20-%20Rep%C3%A8res%20historiques.pdf) [[Correction]]()
-+ ✏️ [Activité 2 - Les données personnelles]() [[Correction]]()
++ ✏️ [Activité 2 - Les données personnelles](https://github.com/BriceMetthey/Seconde-SNT/blob/main/S%C3%A9quence_4_Les%20donn%C3%A9es%20structur%C3%A9es%20et%20leur%20traitement/Activit%C3%A9%202%20-%20Donn%C3%A9es%20personnelles.pdf) [[Correction]]()
